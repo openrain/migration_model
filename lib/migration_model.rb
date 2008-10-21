@@ -11,5 +11,3 @@ module MigrationModel
   alias mm migration_model
 
 end
-
-ActiveRecord::Migration.send :include, MigrationModel
