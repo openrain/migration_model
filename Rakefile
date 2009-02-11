@@ -7,8 +7,8 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |s|
     s.name        = "migration_model"
-    s.summary     = "Rails plugin for safely using models in your Rails migrations"
-    s.email       = "remi@remitaylor.com"
+    s.summary     = "Safely use models in Rails migrations"
+    s.email       = "remi.taylor@openrain.com"
     s.homepage    = "http://github.com/openrain/migration_model"
     s.description = "Rails plugin for safely using models in your Rails migrations"
     s.authors     = %w( remi )
